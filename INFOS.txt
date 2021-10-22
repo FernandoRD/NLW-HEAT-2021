@@ -1,0 +1,25 @@
+Java Script.
+Declaração de variáveis
+* dados simples
+let nomevariavel = valor
+const nomevariavel = valor
+
+* dados estruturados
+const/let tipoObjeto = {
+    variáveis
+}
+
+DOM - Document Object Model
+
+Documento paralelo ao renderizado na tela que o JS consegue acessar e mudar algum valor sem alterar o html
+
+Boas práticas para declaração de variáveis
+camelCase
+
+PascalCase
+
+snake_case
+
+#ImaginarConstruirTransformar
+
+JSON
